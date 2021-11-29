@@ -1,0 +1,6 @@
+jupyterlab
+astropy
+numpy
+matplotlib
+bqplot
+scipy
